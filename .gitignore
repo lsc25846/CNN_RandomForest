@@ -1,5 +1,8 @@
 test
 my_model.h5
 random_forest.joblib
+Test.spec
 Images/
 __pycache__/
+build/
+dist/
